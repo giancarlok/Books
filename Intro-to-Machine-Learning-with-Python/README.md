@@ -1,4 +1,6 @@
-This folder contains a transcript of what I learnt from the book "Intro to Machine Learning with Python" as well as my attempts to solve the questions contained in that book.  
+This folder contains a transcript of what I learnt from the book "Intro to Machine Learning with Python" .
+
+Sumamary can be found here: https://github.com/giancarlok/Books/wiki
 
 Amazon link: https://www.amazon.com/Introduction-Machine-Learning-Andreas-Mueller/dp/1449369413
 
